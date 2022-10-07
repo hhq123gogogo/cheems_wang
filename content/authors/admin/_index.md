@@ -10,34 +10,31 @@ last_name: Wang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. of Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Amsterdam
-    url: https://www.stanford.edu/
+    url: https://www.uva.nl/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the intersection of Meta Learning and Reinforcement Learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Bayesian Deep Learning
+  - Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Machine Learning
+      institution: University of Amsterdam
+      year: 2019.06-2022.09
+    - course: BSc in Pure Mathematics
+      institution: Sichuan University
+      year: 2011.09-2015.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
