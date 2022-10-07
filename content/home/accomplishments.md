@@ -45,7 +45,7 @@ item:
     description: 'This contest was open to nationwide postgraduates in all China's universities.'
     organization: Ministry of Education of the People's Republic of China 
     organization_url: https://cpipc.acge.org.cn/
-    title: 'Second-Class Prize in National Post-Graduate Mathematical Contest in Modeling'
+    title: Second-Class Prize in National Post-Graduate Mathematical Contest in Modeling
     url: ''
   - certificate_url: ''
     date_end: ''
