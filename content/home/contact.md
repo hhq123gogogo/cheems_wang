@@ -26,27 +26,27 @@ content:
 
   # Contact details (edit or remove options as required)
   email: test@example.org
-  phone: 888 888 88 88
+  phone: +31 0628473583
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: Science Park 904
+    city: Amsterdam
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: '1098 XH Amsterdam'
+    country: the Netherlands
+    country_code: NL
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '52.3544'
+    longitude: '4.9557'
+  directions: Enter Lab42 Building and Find Office 420 on Floor 4
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Weekdays 8:00 to 20:00'
+    - 'Weekends 10:00 to 18:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/albertw24045555'
     - icon: video
       icon_pack: fas
       name: Zoom Me
