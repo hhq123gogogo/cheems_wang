@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: +31 0628473583
+  email: hhq123go@gmail.com
+  phone: +31 628473583
   address:
     street: Science Park 904
     city: Amsterdam
