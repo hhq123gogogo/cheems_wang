@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Cheems Wang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Cheems
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,11 +14,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Amsterdam
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the intersection of Meta Learning and Reinforcement Learning.
 
 # Interests to show in About widget
 interests:
@@ -49,16 +49,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/albertw24045555
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Mvbvv3IAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hhq123gogogo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -77,8 +77,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Q.(Qi) Wang (You can call me Cheems in English). I have finished the machine learning Ph.D. project at Amsterdam Machine Learning Lab (AMLab), University of Amsterdam. My defence ceremony will happen soon. Thanks to my great promotorers (supervisors in Dutch),  Prof. Max Welling and Dr. Herke van Hoof, for supporting me in finishing this project. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Moreover, my research focuses on the intersection of Meta Learning and Reinforcement Learning. The principal goal of my Ph.D. project is to achieve convincing uncertainty quantification and enable skill transfer across tasks for fast deployment. I have published 2 ICML papers, 1 NeurIPS paper, and 1 ICLR submission.
+
+I plan to fly to China and meet my family and old friends at the end of 2022. I am in the job market, and you can access my resume here. Feel free to contact me to collaborate on research or other projects. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
