@@ -53,7 +53,7 @@ item:
     description: 'This is to award yearly the top 2% of undergraduates of the university in academic performance.'
     organization: Sichuan University 
     organization_url: https://en.scu.edu.cn/
-    title: 'Integrated First-Class Scholarship'
+    title: Integrated First-Class Scholarship
     url: ''
   - certificate_url: ''
     date_end: ''
@@ -61,7 +61,7 @@ item:
     description: 'This contest was open to nationwide graduates of Math majors.'
     organization: Chinese Mathematical Society
     organization_url: ''
-    title: 'Second-Class Prize in National Graduate Olympiad in Mathematics (Sichuan Province)'
+    title: Second-Class Prize in National Graduate Olympiad in Mathematics (Sichuan Province)
     url: ''
 
 design:
