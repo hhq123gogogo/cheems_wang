@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Doubly Stochastic Variational Inference for Neural Processes with Hierarchical Latent Variables'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Herke van Hoof
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Correspondence Author'
+  # - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2020-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,32 +26,34 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Conference on Machine Learning*
+publication_short: In *ICML2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Neural processes (NPs) constitute a family of variational approximate models for stochastic processes with promising properties in computational
+efficiency and uncertainty quantification. These processes use neural networks with latent variable inputs to induce predictive distributions. However, the expressiveness of vanilla NPs is limited as they only use a global latent variable, while targetspecific local variation may be crucial sometimes. To address this challenge, we investigate NPs systematically and present a new variant of NP model that we call Doubly Stochastic Variational Neural Process (DSVNP). This model combines the global latent variable and local latent variables for prediction. We evaluate this model in several experiments, and our results demonstrate competitive prediction performance in multi-output regression and uncertainty estimation in classification.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 'A hierarchical neural process was developed in this paper.'
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://arxiv.org/pdf/2008.09469.pdf' 
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_slides: 'https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-15-19-00UTC-6122-doubly_stochast.pdf'
+url_source: ''
+url_video: 'https://crossminds.ai/video/doubly-stochastic-variational-inference-for-neural-processes-with-hierarchical-latent-variables-606f43bd072e523d7b780820/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  # - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
