@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2022-10-01'
+    description: ''
+    organization: the NeurIPS Foundation
+    organization_url: https://nips.cc/
+    title: NeurIPS2022 Scholar Award
+    url: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: '2022-07-01'
     description: ''
     organization: International Machine Learning Society
