@@ -76,7 +76,7 @@ highlight_name: true
 
 My name is Q.(Qi) Wang (You can call me Cheems in English). I have finished the machine learning Ph.D. project at Amsterdam Machine Learning Lab (AMLab), University of Amsterdam. My defence ceremony will happen soon. Thanks to my great promotorers (supervisors in Dutch),  Prof. Max Welling and Dr. Herke van Hoof, for supporting me in finishing this project. 
 
-Moreover, my research focuses on the intersection of Meta Learning and Reinforcement Learning. The principal goal of my Ph.D. project is to achieve convincing uncertainty quantification and enable skill transfer across tasks for fast deployment. I have published 2 ICML papers, 1 NeurIPS paper, and 1 ICLR submission.
+Moreover, my research focuses on the intersection of Meta Learning and Reinforcement Learning. The principal goal of my Ph.D. project is to achieve convincing uncertainty quantification and enable skill transfer across tasks for fast deployment. Currently, I have published 2 ICML papers, 1 NeurIPS paper, and 1 ICLR submission. Follow me; more interesting research outputs will come in the future.
 
 I plan to fly to China and meet my family and old friends at the end of 2022. I am in the job market, and you can access my resume here. Feel free to contact me to collaborate on research or other projects. 
 
